@@ -303,10 +303,9 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1628607475
-  m_SortingLayer: 2
+  m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -4266459904008204982, guid: 53835a543eadc4ff8b2955079199b882,
-    type: 3}
+  m_Sprite: {fileID: -4266459904008204982, guid: 53835a543eadc4ff8b2955079199b882, type: 3}
   m_Color: {r: 1, g: 0.41037738, b: 0.41037738, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -538,8 +537,7 @@ MonoBehaviour:
         MutualizePools: 0
         ParentTransform: {fileID: 0}
         CachedRecycle: 0
-        ParticlesPrefab: {fileID: 19800000, guid: d9e4e956b79b91842833eec78878c313,
-          type: 3}
+        ParticlesPrefab: {fileID: 19800000, guid: d9e4e956b79b91842833eec78878c313, type: 3}
         RandomParticlePrefabs: []
         ForceSetActiveOnPlay: 0
         StopOnReset: 0
